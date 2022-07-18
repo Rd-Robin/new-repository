@@ -1,2 +1,2 @@
-# new-repository
-this first repository
+# Business-Website
+this is first repository and this is a just practice website.
